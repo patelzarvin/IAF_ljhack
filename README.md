@@ -1,14 +1,8 @@
-Of course. Here is a powerful and professional README description for your GitHub project, designed to impress hackathon judges.
-
-You can copy and paste the entire block of text below directly into your `README.md` file on GitHub.
-
------
-
 # ✈️ IAF AI-Powered Personnel Insights
 
 **Team: AI Avengers**
 
-A winning hackathon project designed to revolutionize human resource management for the Indian Air Force using predictive AI. This project transforms fragmented data into a strategic asset, enabling proactive and data-driven decision-making for mission-critical operations.
+A hackathon project designed to revolutionize human resource management for the Indian Air Force using predictive AI. This project transforms fragmented data into a strategic asset, enabling proactive and data-driven decision-making for mission-critical operations.
 
 *(**Action:** Replace the link above with a URL to a screenshot of your dashboard. You can upload an image to a service like Imgur to get a link.)*
 
